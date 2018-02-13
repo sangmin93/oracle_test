@@ -2,7 +2,7 @@
 ===
 ---
 ### 1. 페이스북 페이지 생성
-<a href="https://www.facebook.com/pages/create" target="blank">https://www.facebook.com/pages/create</a>
+<a href="https://www.facebook.com/pages/create" target="blank">https://www.facebook.com/pages/create</a><br>
 위 링크로 들어가서 페이스북 페이지를 만듭니다.
 ![1](/media/1.PNG)<br><br>
 ### 2. Facebook Messenger 설정
