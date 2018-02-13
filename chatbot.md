@@ -1,11 +1,11 @@
 페이스북 채널 생성, 연결하기
 ===
 ---
-###1. 페이스북 페이지 생성
+### 1. 페이스북 페이지 생성
 <a href="https://www.facebook.com/pages/create" target="blank">https://www.facebook.com/pages/create</a>
 위 링크로 들어가서 페이스북 페이지를 만듭니다.
 ![1](/media/1.PNG)<br><br>
-###2. Facebook Messenger 설정
+### 2. Facebook Messenger 설정
 <a href="https://developers.facebook.com/" target = "blank">https://developers.facebook.com/</a><br><br>
 1. 위 링크로 들어가서 '새 앱 추가'를 눌러 새 앱 ID를 만듭니다.![2](/media/2.PNG)  
 <br><br>
